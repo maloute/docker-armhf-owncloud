@@ -1,4 +1,5 @@
 # docker-armhf-owncloud
+Basé sur l'image pschmitt/owncloud (https://hub.docker.com/r/pschmitt/owncloud/) modifié pour coller à mon odroid u3
 ## Construction de l'image
 ```
 docker build -t maloute/owncloud .
